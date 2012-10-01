@@ -7,7 +7,7 @@ public class DummyClass {
 	//another change
 	//and another
 	public void dummyMethod(){
-		System.out.println("Change7!!!!");
+		System.out.println("Change8!!!!");
 	}
 	
 }
